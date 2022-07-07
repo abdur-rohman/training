@@ -1,4 +1,4 @@
-import 'package:cli/cli.dart';
+import 'package:cli/day_11/cli.dart';
 import 'package:test/test.dart';
 
 void main() {
